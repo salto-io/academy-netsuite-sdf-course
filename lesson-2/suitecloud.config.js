@@ -8,9 +8,9 @@ module.exports = {
         return options;
       }
     },
-    "project:deploy": {
-      projectFolder: "dist"
-    }
+    // "project:deploy": {
+    //   projectFolder: "dist"
+    // }
   }
 };
 console.log("---after---");
