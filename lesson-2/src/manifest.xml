@@ -1,0 +1,20 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>lesson-2</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">MATRIXITEMS</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="true">CUSTOMSEGMENTS</feature>
+    </features>
+    <objects>
+      <object>customrole1003</object>
+      <object>cseg2</object>
+    </objects>
+  </dependencies>
+</manifest>

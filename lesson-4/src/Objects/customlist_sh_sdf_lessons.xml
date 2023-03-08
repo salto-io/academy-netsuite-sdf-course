@@ -1,0 +1,39 @@
+<customlist scriptid="customlist_sh_sdf_lessons">
+  <description>A list of Lessons in the Intro to SDF Course on SuiteHub</description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>SDF Course Lessons</name>
+  <customvalues>
+    <customvalue scriptid="val_100816_t2480649_149">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 1 - What is SDF and why use it?</value>
+    </customvalue>
+    <customvalue scriptid="val_100817_t2480649_671">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 2 - SDF Core Concepts</value>
+    </customvalue>
+    <customvalue scriptid="val_100818_t2480649_137">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 3 - SDF Project Lifecycle</value>
+    </customvalue>
+    <customvalue scriptid="val_100819_t2480649_703">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 4 - Practical SDF Processes</value>
+    </customvalue>
+    <customvalue scriptid="val_100820_t2480649_934">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 5 - Shortcomings of SDF</value>
+    </customvalue>
+    <customvalue scriptid="val_100821_t2480649_287">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Lesson 6 - SDF Next Steps</value>
+    </customvalue>
+  </customvalues>
+</customlist>
